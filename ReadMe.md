@@ -11,6 +11,7 @@
 
 - Python 3.7.1
 - Django 1.9
+- Django Rest Framework 3.6.3
 
 ## MySql
 
